@@ -28,14 +28,14 @@ Using XAMPP:
 ### User View:  
 Navigate to the registration page of the site and create an account to be able to access the website. 
 
-### Admin View: Please use these credentials to access the administrator side of the webpage.  
+### Admin View: #####Please use these credentials to access the administrator side of the webpage.  
 
 Email Address: admin@bank.com  
 Password: Password123
 
 
 ## Features
-# User View:
+### User View:
 - Login Page
 - Regristration Page
 - User Dashboard
@@ -45,7 +45,7 @@ Password: Password123
 - View Transaction History
 - Contact Page
 
-# Admin View:
+### Admin View:
 - Login Page
 - View User Bank Accounts
 - View, Add, Edit, and Delete Announcements
@@ -54,6 +54,8 @@ Password: Password123
 
 
 ## Screenshots
+
+### User View:
 <img width="468" alt="image" src="https://github.com/cthaureaux/BasicBanking/assets/110206923/323ea9b0-699b-4dbd-8933-f75e4c07f456">
 
 <img width="383" alt="image" src="https://github.com/cthaureaux/BasicBanking/assets/110206923/e9d37922-a9a5-44a3-a668-ec13a3529605">
@@ -62,7 +64,7 @@ Password: Password123
 
 <img width="427" alt="image" src="https://github.com/cthaureaux/BasicBanking/assets/110206923/89f2ea24-5f6b-46cb-a494-7843cd00660f">
 
-#Admin View:
+### Admin View:
 
 <img width="422" alt="image" src="https://github.com/cthaureaux/BasicBanking/assets/110206923/45b34530-d233-47d0-b2d3-8103124bed09">
 
@@ -92,8 +94,8 @@ Password: Password123
 
 ## Authors
 
-- Catherine Thaureaux
-- Cassie Ihekwaba
-- Joseph Chalet
-- Chris Rojas
-- Jared Kruegel
+Catherine Thaureaux  
+Cassie Ihekwaba  
+Joseph Chalet  
+Chris Rojas  
+Jared Kruegel
