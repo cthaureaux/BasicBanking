@@ -1,12 +1,8 @@
-# Web Application Program README for CSIT415
-
-## Project Name
-
-[Basic Banking Corporation]
+# Basic Banking Corporation Web Application Program
 
 ## Description
 
-Provide a brief and concise overview of your web application. Describe its purpose, main features, and any unique selling points.
+This project was created for CSIT415 at Montclair State University.
 
 ## Table of Contents
 
@@ -39,7 +35,7 @@ Password: Password123
 
 
 ## Features
-#User View:
+# User View:
 - Login Page
 - Regristration Page
 - User Dashboard
@@ -49,7 +45,7 @@ Password: Password123
 - View Transaction History
 - Contact Page
 
-#Admin View:
+# Admin View:
 - Login Page
 - View User Bank Accounts
 - View, Add, Edit, and Delete Announcements
@@ -94,10 +90,10 @@ Password: Password123
 - Editor and Compiler Used: Microsoft VSCode
 
 
-##Authors
+## Authors
 
-Catherine Thaureaux
-Cassie Ihekwaba
-Joseph Chalet
-Chris Rojas
-Jared Kruegel
+- Catherine Thaureaux
+- Cassie Ihekwaba
+- Joseph Chalet
+- Chris Rojas
+- Jared Kruegel
