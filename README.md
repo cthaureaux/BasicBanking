@@ -28,7 +28,8 @@ Using XAMPP:
 ### User View:  
 Navigate to the registration page of the site and create an account to be able to access the website. 
 
-### Admin View: ##### Please use these credentials to access the administrator side of the webpage.  
+### Admin View:
+Please use these credentials to access the administrator side of the webpage.  
 
 Email Address: admin@bank.com  
 Password: Password123
