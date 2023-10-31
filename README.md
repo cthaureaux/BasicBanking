@@ -25,7 +25,7 @@ Using XAMPP:
 4. Access your website locally by opening a web browser and entering "http://localhost."
 
 ## Usage
-### User View:  
+#### User View:  
 Navigate to the registration page of the site and create an account to be able to access the website. 
 
 ### Admin View:
